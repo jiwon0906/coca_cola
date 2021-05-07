@@ -3,7 +3,7 @@
 .min {
     width: 100%;
     height: 135px;
-    background: url(../imgs/bg_img_header2.png) no-repeat center;
+    background: url(bg_img_header2.png) no-repeat center;
 }
 .min p {
     font-size: 18px;
@@ -43,7 +43,7 @@
 /* ------mn_contents */
 
 #mn_contents {
-    background: url(../imgs/main/bg_img_contents.png)no-repeat center;
+    background: url(bg_img_contents.png)no-repeat center;
     width: 1366px;
     height: 2490px;
     margin: 0 auto;
@@ -119,7 +119,7 @@
     width: 1366px;
     height: 905px;
     margin: 0 auto;
-    background: url(../imgs/main/bg_img_movie.png);
+    background: url(bg_img_movie.png);
     position: relative;
 }
 
@@ -164,7 +164,7 @@
 /* ----insta---------------------- */
 
 #insta {
-    background: url(../imgs/main/bg_img_insta.png);
+    background: url(bg_img_insta.png);
     width: 1366px;
     height: 1435px;
     margin: 0 auto;
