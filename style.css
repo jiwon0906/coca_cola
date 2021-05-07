@@ -242,6 +242,7 @@
     border-radius: 80px;
     margin-bottom: 10px;
     cursor: pointer;
+    margin: 0 auto;
 }
 
 .contents_box .more_btn h3 {
@@ -261,6 +262,7 @@
     border-radius: 80px;
     margin-bottom: 10px;
     cursor: pointer;
+    margin: 0 auto;
 }
 
 .news_box .more_btn h3 {
